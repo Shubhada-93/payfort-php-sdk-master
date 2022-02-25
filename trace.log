@@ -1,0 +1,165 @@
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 2053995913
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 10002828689c92d3201e4c77b231e4e32590e61629b7aeaa45f9bd19274bf8db
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 899904845
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 57905d1d3bb34a1219bd03777a6aaa19f8652c764e6863129df93f3636b3f766
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1955106751
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => ee8321546922a9c1e5e22b8282a9b7922f2a824cfd15868ab68388ad0a0cf0fb
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1529904794
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => a38ac35eb0ad16e99f0f649fb5f0d051acfa587ed331b397890b57f160385cd4
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1764666473
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => f966addf656ec402276d35388c9ced78dd2964dc7243dba2fd6fd58e3f672f72
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1421489122
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => b86f32e6b2737a9cd9dd7b05f1195a9774eb199c4478a55c445d2133f7378954
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1578230481
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 08845faca0f2b32879d0509fc5fe570cc84408017539d1d1a23fe7305016725f
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 2008639602
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 61245fa27d28069aeaeb870c6ea6aaa8d3c155efae9ba7b0e73197eb2efd7bad
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a894b168
+    [access_code] => 7leCwrdyaAsT68IaSLbe
+    [merchant_reference] => 224469642
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => cb683390796abab28523fb48612e846cbf78e174ebe4174040c8a3147d976cce
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a894b168
+    [access_code] => 7leCwrdyaAsT68IaSLbe
+    [merchant_reference] => 1764969956
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 80befa74f465c64e1632d27665a610e685a6ee7e6a528ce6e08aca9d421096e4
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a894b168
+    [access_code] => 7leCwrdyaAsT68IaSLbe
+    [merchant_reference] => 249938487
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://localhost/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 90c1eb0c2aa3a3b3129b948d0101356907f93f66a71e17b3855351290197c20f
+)
+
+
